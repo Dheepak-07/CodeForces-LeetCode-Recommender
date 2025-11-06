@@ -1,0 +1,1275 @@
+Topics,count
+"['array', 'dynamic-programming']",94
+['string'],62
+['array'],61
+['math'],49
+"['array', 'greedy', 'sorting']",45
+"['array', 'hash-table']",43
+"['array', 'binary-search']",39
+"['string', 'dynamic-programming']",39
+"['array', 'greedy']",36
+"['tree', 'depth-first-search', 'binary-tree']",34
+"['array', 'math']",33
+"['array', 'dynamic-programming', 'matrix']",31
+"['tree', 'depth-first-search', 'breadth-first-search', 'binary-tree']",28
+"['two-pointers', 'string']",27
+"['array', 'simulation']",27
+"['array', 'prefix-sum']",25
+"['array', 'sorting']",24
+"['hash-table', 'string', 'counting']",24
+"['array', 'string']",23
+"['array', 'hash-table', 'counting']",22
+['dynamic-programming'],22
+"['hash-table', 'string']",22
+"['hash-table', 'string', 'sliding-window']",21
+"['array', 'bit-manipulation']",21
+"['math', 'string']",20
+"['array', 'hash-table', 'string']",20
+"['array', 'matrix']",19
+"['array', 'hash-table', 'prefix-sum']",19
+"['string', 'greedy']",18
+"['array', 'matrix', 'simulation']",17
+"['math', 'greedy']",16
+"['string', 'stack']",14
+"['array', 'hash-table', 'sorting']",14
+"['depth-first-search', 'breadth-first-search', 'union-find', 'graph']",14
+"['array', 'two-pointers']",14
+"['string', 'simulation']",14
+"['array', 'sliding-window']",14
+"['array', 'two-pointers', 'binary-search', 'sorting']",13
+"['math', 'dynamic-programming']",13
+"['array', 'stack', 'monotonic-stack']",13
+"['math', 'simulation']",13
+"['math', 'dynamic-programming', 'combinatorics']",12
+"['array', 'hash-table', 'string', 'sorting']",12
+"['array', 'dynamic-programming', 'greedy']",12
+"['math', 'enumeration']",12
+"['array', 'hash-table', 'sliding-window']",12
+"['array', 'math', 'geometry']",11
+"['array', 'greedy', 'sorting', 'heap-priority-queue']",11
+"['array', 'math', 'number-theory']",11
+"['array', 'breadth-first-search', 'matrix']",11
+['bit-manipulation'],11
+"['array', 'depth-first-search', 'breadth-first-search', 'union-find', 'matrix']",11
+"['array', 'two-pointers', 'sorting']",11
+['linked-list'],11
+"['math', 'binary-search']",11
+"['tree', 'depth-first-search', 'binary-search-tree', 'binary-tree']",10
+"['array', 'greedy', 'heap-priority-queue']",10
+"['array', 'dynamic-programming', 'bit-manipulation', 'bitmask']",10
+"['array', 'enumeration']",9
+"['array', 'two-pointers', 'greedy', 'sorting']",9
+"['array', 'hash-table', 'matrix']",9
+"['array', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'bitmask']",9
+"['array', 'binary-search', 'divide-and-conquer', 'binary-indexed-tree', 'segment-tree', 'merge-sort', 'ordered-set']",9
+"['array', 'dynamic-programming', 'prefix-sum']",9
+"['array', 'matrix', 'prefix-sum']",9
+"['depth-first-search', 'breadth-first-search', 'graph', 'topological-sort']",8
+"['array', 'dynamic-programming', 'sorting']",8
+"['array', 'depth-first-search', 'breadth-first-search', 'matrix']",8
+"['array', 'hash-table', 'dynamic-programming']",8
+"['array', 'hash-table', 'string', 'counting']",8
+"['linked-list', 'two-pointers']",8
+"['array', 'math', 'dynamic-programming']",8
+"['hash-table', 'tree', 'depth-first-search', 'breadth-first-search', 'binary-tree']",8
+"['string', 'sliding-window']",7
+"['array', 'backtracking']",7
+"['math', 'string', 'simulation']",7
+"['math', 'bit-manipulation']",7
+"['array', 'sorting', 'heap-priority-queue']",7
+"['array', 'binary-search', 'sorting']",7
+"['string', 'stack', 'simulation']",7
+"['tree', 'breadth-first-search', 'binary-tree']",7
+"['array', 'hash-table', 'simulation']",7
+"['array', 'string', 'dynamic-programming']",6
+"['array', 'two-pointers', 'simulation']",6
+"['array', 'binary-search', 'dynamic-programming', 'sorting']",6
+"['array', 'math', 'bit-manipulation']",6
+"['array', 'hash-table', 'greedy']",6
+"['graph', 'heap-priority-queue', 'shortest-path']",6
+"['array', 'hash-table', 'bit-manipulation']",6
+"['array', 'dynamic-programming', 'bit-manipulation']",6
+"['math', 'recursion']",6
+"['two-pointers', 'string', 'dynamic-programming']",6
+"['math', 'number-theory']",6
+"['array', 'string', 'prefix-sum']",6
+"['array', 'hash-table', 'math', 'counting']",6
+"['array', 'greedy', 'matrix']",6
+"['two-pointers', 'string', 'greedy']",6
+"['array', 'heap-priority-queue', 'simulation']",5
+"['math', 'geometry']",5
+"['string', 'dynamic-programming', 'greedy']",5
+"['array', 'dynamic-programming', 'sliding-window']",5
+"['array', 'heap-priority-queue']",5
+"['array', 'hash-table', 'greedy', 'counting']",5
+"['dynamic-programming', 'tree', 'depth-first-search', 'binary-tree']",5
+"['array', 'hash-table', 'string', 'trie']",5
+"['linked-list', 'recursion']",5
+"['string', 'string-matching']",5
+"['array', 'two-pointers', 'string']",5
+"['array', 'dynamic-programming', 'stack', 'greedy', 'monotonic-stack']",5
+"['string', 'dynamic-programming', 'prefix-sum']",5
+"['depth-first-search', 'breadth-first-search', 'graph']",5
+"['array', 'hash-table', 'greedy', 'sorting']",5
+"['array', 'math', 'greedy']",5
+"['array', 'hash-table', 'enumeration']",5
+"['array', 'dynamic-programming', 'greedy', 'sorting']",5
+"['array', 'graph', 'heap-priority-queue', 'shortest-path']",5
+"['tree', 'depth-first-search']",5
+"['array', 'math', 'sorting']",5
+"['array', 'binary-search', 'sliding-window', 'prefix-sum']",5
+"['array', 'dynamic-programming', 'tree', 'depth-first-search']",5
+['graph'],5
+"['array', 'two-pointers', 'binary-search', 'greedy', 'sorting']",5
+"['array', 'binary-search', 'greedy']",5
+"['array', 'greedy', 'sorting', 'counting-sort']",4
+"['tree', 'depth-first-search', 'breadth-first-search']",4
+"['array', 'math', 'dynamic-programming', 'game-theory']",4
+"['string', 'stack', 'greedy', 'monotonic-stack']",4
+"['array', 'dynamic-programming', 'memoization']",4
+"['array', 'two-pointers', 'matrix']",4
+"['dynamic-programming', 'prefix-sum']",4
+"['string', 'stack', 'greedy']",4
+"['array', 'breadth-first-search', 'graph', 'heap-priority-queue', 'matrix', 'shortest-path']",4
+"['array', 'stack', 'simulation']",4
+"['array', 'hash-table', 'two-pointers', 'binary-search', 'sorting']",4
+"['array', 'binary-search', 'interactive']",4
+"['array', 'math', 'greedy', 'sorting']",4
+"['string', 'enumeration']",4
+"['array', 'hash-table', 'sliding-window', 'heap-priority-queue']",4
+"['array', 'hash-table', 'math', 'counting', 'number-theory']",4
+"['array', 'greedy', 'bit-manipulation']",4
+"['hash-table', 'string', 'greedy', 'sorting', 'counting']",4
+"['array', 'hash-table', 'two-pointers', 'sorting']",4
+"['array', 'bit-manipulation', 'brainteaser']",4
+"['array', 'sorting', 'matrix']",4
+"['array', 'math', 'simulation']",4
+"['string', 'greedy', 'sorting']",4
+"['tree', 'binary-search-tree', 'binary-tree']",4
+"['array', 'backtracking', 'bit-manipulation', 'enumeration']",4
+"['math', 'string', 'greedy']",4
+['backtracking'],4
+"['array', 'string', 'trie']",4
+"['array', 'matrix', 'enumeration']",4
+"['hash-table', 'string', 'design', 'trie']",4
+"['stack', 'tree', 'depth-first-search', 'binary-tree']",4
+"['string', 'backtracking']",4
+"['array', 'hash-table', 'sorting', 'counting']",4
+"['math', 'bit-manipulation', 'recursion']",4
+"['array', 'binary-search', 'greedy', 'sorting']",4
+"['array', 'binary-search', 'matrix']",4
+"['array', 'string', 'simulation']",4
+"['math', 'string', 'dynamic-programming']",4
+"['hash-table', 'string', 'sorting']",4
+"['hash-table', 'linked-list', 'design', 'doubly-linked-list']",4
+"['hash-table', 'string', 'backtracking']",4
+"['string', 'rolling-hash', 'string-matching', 'hash-function']",4
+"['array', 'hash-table', 'math', 'geometry']",4
+"['hash-table', 'math', 'string']",4
+"['array', 'binary-search', 'depth-first-search', 'breadth-first-search', 'union-find', 'heap-priority-queue', 'matrix']",3
+"['hash-table', 'string', 'greedy']",3
+"['math', 'dynamic-programming', 'memoization']",3
+"['math', 'string', 'bit-manipulation']",3
+"['array', 'hash-table', 'string', 'design']",3
+"['array', 'binary-search', 'sliding-window', 'sorting', 'prefix-sum']",3
+"['array', 'hash-table', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph']",3
+"['array', 'hash-table', 'math', 'combinatorics']",3
+"['string', 'stack', 'recursion']",3
+"['array', 'sliding-window', 'prefix-sum']",3
+"['string', 'prefix-sum']",3
+"['string', 'counting']",3
+"['array', 'binary-search', 'dynamic-programming']",3
+"['array', 'hash-table', 'sorting', 'heap-priority-queue', 'simulation']",3
+"['array', 'dynamic-programming', 'breadth-first-search', 'matrix']",3
+"['math', 'combinatorics']",3
+"['hash-table', 'math', 'string', 'combinatorics', 'counting']",3
+"['array', 'binary-indexed-tree', 'segment-tree']",3
+"['array', 'math', 'dynamic-programming', 'number-theory']",3
+"['array', 'breadth-first-search', 'heap-priority-queue', 'matrix']",3
+"['hash-table', 'string', 'breadth-first-search']",3
+"['array', 'math', 'two-pointers', 'sorting']",3
+"['array', 'math', 'prefix-sum']",3
+"['array', 'simulation', 'prefix-sum']",3
+"['array', 'hash-table', 'divide-and-conquer', 'tree', 'binary-tree']",3
+"['array', 'stack', 'sorting', 'monotonic-stack']",3
+"['array', 'stack', 'greedy', 'monotonic-stack']",3
+"['array', 'hash-table', 'binary-search', 'dynamic-programming', 'sorting']",3
+"['array', 'dynamic-programming', 'queue', 'heap-priority-queue', 'monotonic-queue']",3
+"['array', 'hash-table', 'binary-search', 'sliding-window']",3
+"['array', 'math', 'enumeration', 'number-theory']",3
+"['array', 'binary-search', 'prefix-sum']",3
+"['hash-table', 'string', 'dynamic-programming']",3
+"['string', 'sorting']",3
+"['hash-table', 'design', 'heap-priority-queue', 'ordered-set']",3
+"['array', 'greedy', 'sorting', 'prefix-sum']",3
+"['array', 'hash-table', 'breadth-first-search']",3
+"['hash-table', 'tree', 'depth-first-search', 'binary-tree']",3
+"['array', 'bit-manipulation', 'sliding-window']",3
+"['math', 'string', 'dynamic-programming', 'combinatorics']",3
+"['array', 'dynamic-programming', 'binary-indexed-tree', 'segment-tree']",3
+"['array', 'two-pointers', 'binary-search']",3
+"['array', 'bit-manipulation', 'prefix-sum']",3
+"['hash-table', 'linked-list', 'two-pointers']",3
+"['array', 'dynamic-programming', 'bit-manipulation', 'matrix', 'bitmask']",3
+"['depth-first-search', 'graph', 'eulerian-circuit']",3
+"['hash-table', 'string', 'bit-manipulation', 'prefix-sum']",3
+"['string', 'backtracking', 'bit-manipulation']",3
+"['hash-table', 'string', 'greedy', 'sorting', 'heap-priority-queue', 'counting']",3
+"['array', 'hash-table', 'sorting', 'heap-priority-queue']",3
+"['tree', 'depth-first-search', 'breadth-first-search', 'graph']",3
+"['hash-table', 'math']",3
+"['dynamic-programming', 'tree', 'depth-first-search']",3
+"['array', 'binary-search', 'sorting', 'prefix-sum']",3
+"['string', 'tree', 'depth-first-search', 'binary-tree']",3
+"['array', 'binary-search', 'greedy', 'sliding-window', 'sorting', 'prefix-sum']",3
+"['math', 'brainteaser']",3
+"['dynamic-programming', 'memoization']",3
+"['array', 'binary-search', 'bit-manipulation', 'segment-tree']",3
+"['hash-table', 'linked-list']",3
+"['array', 'string', 'greedy']",3
+"['array', 'hash-table', 'math']",3
+"['array', 'breadth-first-search', 'graph']",3
+"['array', 'stack', 'greedy', 'sorting', 'monotonic-stack']",3
+"['linked-list', 'two-pointers', 'stack', 'recursion']",3
+"['design', 'segment-tree', 'ordered-set']",2
+"['linked-list', 'design']",2
+"['array', 'string', 'trie', 'rolling-hash', 'string-matching', 'hash-function']",2
+"['array', 'binary-search', 'binary-indexed-tree', 'segment-tree']",2
+"['array', 'divide-and-conquer']",2
+"['dynamic-programming', 'tree', 'depth-first-search', 'graph']",2
+"['array', 'hash-table', 'linked-list', 'design', 'hash-function']",2
+"['array', 'hash-table', 'math', 'matrix']",2
+"['hash-table', 'depth-first-search', 'breadth-first-search', 'union-find', 'hash-function']",2
+"['array', 'queue', 'simulation']",2
+"['array', 'two-pointers', 'binary-search', 'stack', 'monotonic-stack']",2
+"['string', 'dynamic-programming', 'stack', 'greedy']",2
+"['array', 'sliding-window', 'sorting']",2
+"['array', 'rolling-hash', 'string-matching', 'hash-function']",2
+"['array', 'hash-table', 'string', 'sorting', 'heap-priority-queue']",2
+"['dynamic-programming', 'bit-manipulation', 'graph', 'bitmask']",2
+"['array', 'hash-table', 'linked-list']",2
+"['string', 'backtracking', 'enumeration']",2
+"['array', 'hash-table', 'union-find']",2
+"['array', 'two-pointers', 'binary-search', 'sorting', 'prefix-sum']",2
+"['string', 'bit-manipulation']",2
+"['array', 'hash-table', 'math', 'greedy']",2
+"['array', 'math', 'bit-manipulation', 'matrix']",2
+"['array', 'tree', 'depth-first-search', 'breadth-first-search', 'binary-tree']",2
+"['array', 'tree', 'depth-first-search']",2
+"['array', 'depth-first-search', 'breadth-first-search', 'matrix', 'simulation']",2
+"['math', 'string', 'enumeration']",2
+"['bit-manipulation', 'interactive']",2
+"['array', 'hash-table', 'string', 'design', 'trie']",2
+"['array', 'math', 'dynamic-programming', 'bit-manipulation', 'bitmask']",2
+"['depth-first-search', 'breadth-first-search', 'graph', 'heap-priority-queue', 'shortest-path']",2
+"['array', 'hash-table', 'string', 'depth-first-search', 'breadth-first-search', 'union-find']",2
+"['array', 'hash-table', 'greedy', 'prefix-sum']",2
+"['string', 'dynamic-programming', 'sliding-window']",2
+"['array', 'greedy', 'enumeration']",2
+"['linked-list', 'tree', 'depth-first-search', 'breadth-first-search', 'binary-tree']",2
+"['array', 'hash-table', 'string', 'depth-first-search', 'breadth-first-search', 'union-find', 'sorting']",2
+"['array', 'segment-tree', 'ordered-set']",2
+"['array', 'sorting', 'counting-sort']",2
+"['array', 'math', 'geometry', 'sorting', 'enumeration']",2
+"['array', 'hash-table', 'greedy', 'sorting', 'heap-priority-queue']",2
+"['array', 'hash-table', 'string', 'simulation']",2
+"['array', 'union-find', 'sorting']",2
+"['two-pointers', 'string', 'string-matching']",2
+"['string', 'dynamic-programming', 'stack']",2
+"['array', 'hash-table', 'greedy', 'sorting', 'counting']",2
+"['math', 'backtracking']",2
+"['array', 'binary-search', 'sliding-window', 'sorting']",2
+"['array', 'sliding-window', 'rolling-hash', 'string-matching', 'hash-function']",2
+"['array', 'string', 'trie', 'sorting']",2
+"['array', 'hash-table', 'divide-and-conquer', 'segment-tree', 'prefix-sum']",2
+"['graph', 'topological-sort']",2
+"['array', 'math', 'binary-search', 'greedy', 'sorting']",2
+"['array', 'hash-table', 'design']",2
+"['array', 'linked-list', 'stack', 'monotonic-stack']",2
+"['array', 'hash-table', 'sorting', 'counting-sort']",2
+"['string', 'dynamic-programming', 'backtracking']",2
+"['breadth-first-search', 'graph']",2
+"['union-find', 'graph', 'heap-priority-queue', 'minimum-spanning-tree']",2
+"['array', 'math', 'dynamic-programming', 'prefix-sum', 'game-theory']",2
+"['array', 'hash-table', 'string', 'binary-search', 'sorting']",2
+"['array', 'hash-table', 'bit-manipulation', 'breadth-first-search', 'matrix']",2
+"['array', 'hash-table', 'matrix', 'simulation']",2
+"['array', 'math', 'greedy', 'heap-priority-queue']",2
+"['string', 'binary-search', 'sliding-window', 'prefix-sum']",2
+"['array', 'tree', 'depth-first-search', 'breadth-first-search']",2
+"['array', 'math', 'dynamic-programming', 'sorting', 'combinatorics']",2
+"['array', 'two-pointers', 'greedy']",2
+"['array', 'backtracking', 'matrix']",2
+"['string', 'greedy', 'counting']",2
+"['array', 'string', 'depth-first-search', 'trie']",2
+"['array', 'hash-table', 'design', 'simulation']",2
+"['tree', 'binary-tree']",2
+"['array', 'sorting', 'enumeration']",2
+"['array', 'hash-table', 'greedy', 'bit-manipulation']",2
+"['array', 'backtracking', 'bit-manipulation']",2
+"['array', 'math', 'greedy', 'number-theory']",2
+"['two-pointers', 'string', 'dynamic-programming', 'greedy']",2
+"['array', 'binary-search', 'queue', 'sliding-window', 'heap-priority-queue', 'prefix-sum', 'monotonic-queue']",2
+"['array', 'bit-manipulation', 'breadth-first-search', 'matrix']",2
+"['array', 'dynamic-programming', 'greedy', 'heap-priority-queue']",2
+"['math', 'backtracking', 'bit-manipulation']",2
+"['array', 'math', 'geometry', 'matrix']",2
+"['two-pointers', 'string', 'binary-search', 'rolling-hash', 'string-matching', 'hash-function']",2
+"['hash-table', 'stack', 'design', 'ordered-set']",2
+"['array', 'dynamic-programming', 'stack', 'matrix', 'monotonic-stack']",2
+"['hash-table', 'string', 'prefix-sum']",2
+"['hash-table', 'string', 'binary-search', 'sliding-window', 'counting']",2
+"['array', 'string', 'dynamic-programming', 'greedy']",2
+"['array', 'dynamic-programming', 'stack', 'monotonic-stack']",2
+"['array', 'hash-table', 'binary-search', 'design']",2
+"['array', 'bit-manipulation', 'queue', 'sliding-window', 'prefix-sum']",2
+"['array', 'queue', 'sliding-window', 'heap-priority-queue', 'ordered-set', 'monotonic-queue']",2
+"['array', 'hash-table', 'sliding-window', 'prefix-sum']",2
+"['array', 'sorting', 'heap-priority-queue', 'matrix', 'simulation']",2
+"['array', 'math', 'string']",2
+"['array', 'tree', 'binary-tree']",2
+"['array', 'hash-table', 'math', 'union-find', 'number-theory']",2
+"['array', 'string', 'string-matching']",2
+"['array', 'hash-table', 'depth-first-search', 'breadth-first-search', 'union-find', 'matrix']",2
+"['array', 'hash-table', 'bit-manipulation', 'trie', 'sliding-window']",2
+"['array', 'greedy', 'sorting', 'heap-priority-queue', 'matrix']",2
+"['math', 'combinatorics', 'enumeration']",2
+"['hash-table', 'string', 'greedy', 'counting']",2
+"['string', 'dynamic-programming', 'string-matching']",2
+"['array', 'hash-table', 'math', 'number-theory']",2
+"['hash-table', 'tree', 'depth-first-search', 'breadth-first-search']",2
+"['array', 'math', 'greedy', 'sorting', 'game-theory']",2
+"['array', 'hash-table', 'tree', 'depth-first-search', 'binary-tree']",2
+"['math', 'dynamic-programming', 'game-theory']",2
+"['string', 'greedy', 'enumeration']",2
+"['array', 'hash-table', 'math', 'design', 'randomized']",2
+"['string', 'stack', 'depth-first-search']",2
+"['math', 'binary-search', 'greedy']",2
+"['hash-table', 'string', 'counting', 'prefix-sum']",2
+"['hash-table', 'math', 'reservoir-sampling', 'randomized']",2
+"['array', 'stack', 'matrix', 'monotonic-stack']",2
+"['backtracking', 'bit-manipulation']",2
+"['array', 'binary-search', 'dynamic-programming', 'greedy', 'prefix-sum']",2
+"['array', 'string', 'backtracking', 'bit-manipulation']",2
+"['array', 'queue', 'sliding-window', 'heap-priority-queue', 'monotonic-queue']",2
+"['string', 'greedy', 'heap-priority-queue']",2
+"['array', 'hash-table', 'tree', 'depth-first-search', 'prefix-sum']",2
+"['array', 'bit-manipulation', 'trie']",2
+"['array', 'greedy', 'sliding-window', 'prefix-sum']",2
+"['stack', 'design', 'queue']",2
+"['two-pointers', 'string', 'enumeration']",2
+"['linked-list', 'math', 'stack']",2
+"['math', 'string', 'stack', 'recursion']",2
+"['array', 'hash-table', 'two-pointers']",2
+"['math', 'enumeration', 'number-theory']",2
+"['array', 'hash-table', 'string', 'bit-manipulation', 'counting']",2
+"['binary-search', 'union-find', 'graph', 'sorting']",2
+"['array', 'binary-search', 'dynamic-programming', 'greedy']",2
+"['hash-table', 'string', 'sorting', 'counting']",2
+"['array', 'binary-search', 'sorting', 'heap-priority-queue', 'matrix']",2
+"['linked-list', 'math']",2
+"['array', 'graph', 'heap-priority-queue', 'matrix', 'shortest-path']",2
+"['array', 'math', 'dynamic-programming', 'sorting']",2
+"['binary-search', 'interactive']",2
+"['math', 'sorting']",2
+"['hash-table', 'string', 'sliding-window', 'counting']",2
+"['math', 'greedy', 'sorting']",2
+"['array', 'stack', 'monotonic-stack', 'prefix-sum']",2
+"['array', 'math', 'sorting', 'matrix']",2
+"['array', 'hash-table', 'bit-manipulation', 'counting']",2
+"['hash-table', 'tree', 'depth-first-search', 'breadth-first-search', 'sorting', 'binary-tree']",2
+"['hash-table', 'string', 'bit-manipulation']",2
+"['array', 'hash-table', 'sorting', 'simulation']",2
+"['array', 'dynamic-programming', 'breadth-first-search']",2
+"['array', 'binary-search', 'sorting', 'ordered-set']",2
+"['math', 'simulation', 'number-theory']",2
+"['array', 'dynamic-programming', 'depth-first-search', 'breadth-first-search', 'graph', 'topological-sort', 'memoization', 'matrix']",2
+"['string', 'stack', 'tree', 'binary-tree']",2
+"['dynamic-programming', 'tree', 'depth-first-search', 'binary-search-tree', 'binary-tree']",2
+"['string', 'backtracking', 'tree', 'depth-first-search', 'binary-tree']",2
+"['array', 'hash-table', 'linked-list', 'heap-priority-queue', 'simulation', 'doubly-linked-list', 'ordered-set']",2
+"['array', 'two-pointers', 'greedy', 'sorting', 'heap-priority-queue', 'prefix-sum']",2
+"['array', 'binary-search', 'sliding-window']",2
+"['array', 'hash-table', 'design', 'matrix', 'simulation']",2
+"['array', 'string', 'recursion']",2
+"['array', 'math', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'number-theory', 'bitmask']",2
+"['array', 'sorting', 'counting']",2
+"['math', 'string', 'greedy', 'game-theory']",2
+"['divide-and-conquer', 'bit-manipulation']",2
+"['array', 'dynamic-programming', 'backtracking']",2
+"['hash-table', 'graph']",2
+"['array', 'hash-table', 'string', 'trie', 'string-matching']",2
+"['array', 'linked-list', 'doubly-linked-list']",2
+"['array', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'memoization', 'bitmask']",2
+"['array', 'dynamic-programming', 'matrix', 'enumeration']",2
+"['array', 'hash-table', 'sorting', 'counting', 'enumeration']",2
+"['string', 'recursion', 'simulation']",2
+"['array', 'simulation', 'interactive']",2
+"['array', 'linked-list', 'design', 'queue']",2
+"['array', 'math', 'union-find', 'number-theory']",2
+"['array', 'hash-table', 'greedy', 'sorting', 'heap-priority-queue', 'counting']",2
+"['tree', 'depth-first-search', 'breadth-first-search', 'binary-search-tree', 'binary-tree']",2
+"['stack', 'tree', 'design', 'binary-search-tree', 'binary-tree', 'iterator']",2
+"['array', 'graph', 'topological-sort', 'matrix']",2
+"['array', 'union-find', 'graph', 'topological-sort', 'sorting', 'matrix']",2
+"['array', 'math', 'dynamic-programming', 'combinatorics', 'prefix-sum']",2
+"['hash-table', 'math', 'string', 'dynamic-programming', 'counting']",2
+"['array', 'hash-table', 'tree', 'depth-first-search', 'breadth-first-search']",2
+"['array', 'two-pointers', 'stack', 'greedy', 'sorting', 'monotonic-stack']",2
+"['array', 'math', 'dynamic-programming', 'combinatorics']",2
+"['stack', 'tree', 'depth-first-search']",2
+"['union-find', 'graph']",2
+"['array', 'binary-search', 'greedy', 'sorting', 'prefix-sum']",2
+"['array', 'hash-table', 'string', 'graph', 'topological-sort']",1
+"['array', 'hash-table', 'math', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'geometry', 'bitmask']",1
+"['array', 'math', 'depth-first-search', 'breadth-first-search', 'graph', 'geometry']",1
+"['array', 'two-pointers', 'string', 'simulation']",1
+"['array', 'math', 'simulation', 'combinatorics']",1
+"['hash-table', 'design', 'queue', 'counting', 'data-stream']",1
+"['array', 'string', 'trie', 'counting']",1
+"['array', 'dynamic-programming', 'depth-first-search', 'breadth-first-search', 'matrix']",1
+"['array', 'two-pointers', 'binary-search', 'greedy', 'sorting', 'enumeration', 'prefix-sum']",1
+"['string', 'dynamic-programming', 'simulation']",1
+"['array', 'hash-table', 'binary-search', 'greedy', 'sorting']",1
+"['array', 'binary-search', 'greedy', 'queue', 'sliding-window', 'prefix-sum']",1
+"['string', 'binary-search', 'rolling-hash', 'suffix-array', 'string-matching', 'hash-function']",1
+"['sorting', 'heap-priority-queue']",1
+"['array', 'dynamic-programming', 'binary-indexed-tree', 'enumeration', 'prefix-sum']",1
+"['array', 'breadth-first-search']",1
+"['array', 'hash-table', 'math', 'simulation']",1
+"['array', 'binary-search', 'bit-manipulation', 'sliding-window']",1
+"['array', 'hash-table', 'dynamic-programming', 'counting']",1
+"['array', 'hash-table', 'greedy', 'sort']",1
+"['string', 'backtracking', 'stack', 'greedy']",1
+"['array', 'hash-table', 'two-pointers', 'binary-search']",1
+"['array', 'string', 'binary-search', 'prefix-sum']",1
+"['array', 'binary-search', 'counting']",1
+"['array', 'string', 'backtracking', 'simulation']",1
+"['array', 'union-find', 'prefix-sum', 'ordered-set']",1
+"['array', 'math', 'sorting', 'heap-priority-queue', 'number-theory']",1
+"['array', 'stack', 'greedy']",1
+"['design', 'heap-priority-queue', 'data-stream', 'ordered-set']",1
+"['array', 'string', 'counting']",1
+"['linked-list', 'simulation']",1
+"['array', 'dynamic-programming', 'heap-priority-queue']",1
+"['array', 'hash-table', 'bit-manipulation', 'prefix-sum']",1
+"['math', 'backtracking', 'greedy']",1
+"['array', 'greedy', 'sorting', 'enumeration', 'prefix-sum']",1
+"['array', 'binary-search', 'stack', 'greedy', 'sorting']",1
+"['hash-table', 'string', 'greedy', 'heap-priority-queue', 'counting']",1
+"['array', 'hash-table', 'string', 'design', 'sorting']",1
+"['hash-table', 'string', 'rolling-hash', 'counting', 'hash-function']",1
+"['array', 'hash-table', 'math', 'dynamic-programming', 'backtracking', 'sorting', 'combinatorics']",1
+"['array', 'math', 'binary-search', 'greedy', 'number-theory']",1
+"['array', 'tree', 'graph', 'topological-sort']",1
+"['array', 'dynamic-programming', 'graph', 'topological-sort']",1
+"['array', 'backtracking', 'bit-manipulation', 'matrix', 'enumeration']",1
+"['tree', 'breadth-first-search', 'sorting', 'binary-tree']",1
+"['array', 'string', 'segment-tree', 'ordered-set']",1
+"['array', 'math', 'stack', 'number-theory']",1
+"['array', 'binary-search', 'dynamic-programming', 'sorting', 'heap-priority-queue']",1
+"['array', 'hash-table', 'string', 'bit-manipulation']",1
+"['array', 'hash-table', 'math', 'stack', 'sliding-window']",1
+"['string', 'sliding-window', 'rolling-hash', 'hash-function']",1
+"['string', 'greedy', 'prefix-sum']",1
+"['graph', 'shortest-path']",1
+"['two-pointers', 'string', 'binary-search']",1
+"['array', 'hash-table', 'dynamic-programming', 'tree', 'depth-first-search']",1
+"['array', 'segment-tree']",1
+"['dynamic-programming', 'greedy', 'bit-manipulation']",1
+"['array', 'hash-table', 'tree', 'binary-tree']",1
+"['string', 'bit-manipulation', 'union-find']",1
+"['two-pointers', 'string', 'greedy', 'binary-indexed-tree']",1
+"['array', 'string', 'dynamic-programming', 'greedy', 'union-find', 'matrix']",1
+"['array', 'divide-and-conquer', 'dynamic-programming', 'binary-indexed-tree', 'segment-tree', 'queue', 'monotonic-queue']",1
+"['array', 'hash-table', 'binary-search', 'binary-indexed-tree', 'sorting']",1
+"['array', 'greedy', 'design']",1
+"['array', 'tree', 'depth-first-search', 'breadth-first-search', 'graph']",1
+"['string', 'binary-search', 'enumeration']",1
+"['array', 'math', 'tree', 'depth-first-search', 'enumeration']",1
+"['string', 'dynamic-programming', 'greedy', 'memoization']",1
+"['array', 'greedy', 'matrix', 'prefix-sum']",1
+"['math', 'dynamic-programming', 'greedy', 'enumeration']",1
+"['array', 'hash-table', 'binary-search', 'bit-manipulation']",1
+"['array', 'binary-search', 'tree', 'depth-first-search', 'binary-search-tree', 'binary-tree']",1
+"['hash-table', 'string', 'enumeration']",1
+"['array', 'math', 'dynamic-programming', 'greedy', 'number-theory']",1
+"['array', 'hash-table', 'string', 'bit-manipulation', 'sorting']",1
+"['array', 'depth-first-search', 'union-find', 'graph']",1
+"['tree', 'depth-first-search', 'graph', 'trie']",1
+"['array', 'hash-table', 'string', 'bit-manipulation', 'enumeration']",1
+"['array', 'hash-table', 'greedy', 'sorting', 'heap-priority-queue', 'simulation']",1
+"['math', 'prefix-sum']",1
+"['array', 'hash-table', 'string', 'greedy', 'counting']",1
+"['array', 'queue', 'sliding-window', 'monotonic-queue']",1
+"['array', 'dynamic-programming', 'stack', 'graph', 'monotonic-stack', 'shortest-path']",1
+"['linked-list', 'two-pointers', 'stack']",1
+"['array', 'binary-search', 'stack', 'sorting', 'heap-priority-queue', 'monotonic-stack']",1
+"['hash-table', 'math', 'string', 'counting', 'prefix-sum']",1
+"['array', 'hash-table', 'binary-search', 'design', 'segment-tree']",1
+"['array', 'string', 'divide-and-conquer', 'sorting', 'heap-priority-queue', 'radix-sort', 'quickselect']",1
+"['math', 'dynamic-programming', 'combinatorics', 'number-theory']",1
+"['depth-first-search', 'graph', 'topological-sort']",1
+"['array', 'stack', 'union-find', 'monotonic-stack']",1
+"['array', 'binary-search', 'greedy', 'sorting', 'heap-priority-queue']",1
+"['array', 'two-pointers', 'heap-priority-queue', 'simulation']",1
+"['dynamic-programming', 'queue', 'simulation']",1
+"['hash-table', 'string', 'bit-manipulation', 'counting']",1
+"['array', 'linked-list', 'matrix', 'simulation']",1
+"['array', 'hash-table', 'string', 'design', 'heap-priority-queue', 'ordered-set']",1
+"['array', 'bit-manipulation', 'tree', 'depth-first-search']",1
+"['array', 'two-pointers', 'binary-search', 'greedy', 'queue', 'sorting', 'monotonic-queue']",1
+"['array', 'hash-table', 'string', 'string-matching']",1
+"['array', 'graph', 'matrix']",1
+"['array', 'graph', 'sorting', 'enumeration']",1
+"['array', 'breadth-first-search', 'sorting', 'heap-priority-queue', 'matrix']",1
+"['hash-table', 'math', 'string', 'dynamic-programming']",1
+"['array', 'backtracking', 'graph']",1
+"['array', 'hash-table', 'sorting', 'ordered-set']",1
+"['dynamic-programming', 'greedy']",1
+"['math', 'binary-search', 'number-theory']",1
+"['array', 'hash-table', 'trie', 'rolling-hash', 'hash-function', 'enumeration']",1
+"['array', 'hash-table', 'two-pointers', 'enumeration']",1
+"['array', 'hash-table', 'sorting', 'enumeration']",1
+"['array', 'hash-table', 'tree', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph']",1
+"['array', 'binary-search', 'breadth-first-search', 'matrix']",1
+"['array', 'hash-table', 'tree', 'union-find', 'graph', 'sorting']",1
+"['array', 'hash-table', 'binary-search', 'sorting', 'prefix-sum', 'ordered-set']",1
+"['array', 'math', 'string', 'matrix']",1
+"['array', 'hash-table', 'math', 'geometry', 'enumeration']",1
+"['array', 'string', 'tree', 'depth-first-search', 'graph', 'topological-sort']",1
+"['array', 'math', 'bit-manipulation', 'brainteaser', 'prefix-sum']",1
+"['array', 'two-pointers', 'breadth-first-search', 'union-find', 'sorting', 'heap-priority-queue', 'matrix']",1
+"['linked-list', 'stack', 'recursion', 'monotonic-stack']",1
+"['hash-table', 'binary-search', 'union-find', 'design', 'binary-indexed-tree', 'segment-tree', 'heap-priority-queue', 'ordered-set']",1
+"['linked-list', 'string', 'stack', 'design', 'simulation', 'doubly-linked-list']",1
+"['design', 'simulation']",1
+"['array', 'math', 'binary-search', 'greedy']",1
+"['binary-search', 'design', 'binary-indexed-tree', 'segment-tree']",1
+"['hash-table', 'string', 'stack', 'greedy']",1
+"['math', 'two-pointers', 'brainteaser']",1
+"['array', 'greedy', 'graph', 'sorting', 'heap-priority-queue']",1
+"['depth-first-search', 'breadth-first-search', 'union-find', 'graph', 'sorting']",1
+"['string', 'dynamic-programming', 'rolling-hash', 'string-matching', 'hash-function']",1
+"['greedy', 'graph', 'sorting', 'heap-priority-queue']",1
+"['depth-first-search', 'graph']",1
+"['greedy', 'bit-manipulation']",1
+"['array', 'hash-table', 'two-pointers', 'sorting', 'enumeration']",1
+"['array', 'math', 'geometry', 'sorting', 'number-theory']",1
+"['math', 'string', 'sliding-window']",1
+"['hash-table', 'math', 'string', 'prefix-sum']",1
+"['array', 'hash-table', 'math', 'matrix', 'counting', 'enumeration', 'number-theory']",1
+"['array', 'hash-table', 'string', 'dynamic-programming']",1
+"['array', 'hash-table', 'recursion', 'enumeration']",1
+"['string', 'sliding-window', 'enumeration', 'prefix-sum']",1
+"['array', 'binary-search', 'segment-tree', 'line-sweep']",1
+"['two-pointers', 'string', 'binary-search', 'string-matching']",1
+"['hash-table', 'string', 'dynamic-programming', 'greedy', 'sorting']",1
+"['array', 'dynamic-programming', 'memoization', 'matrix']",1
+"['math', 'string', 'simulation', 'combinatorics', 'number-theory']",1
+"['math', 'string', 'combinatorics', 'number-theory']",1
+"['array', 'math', 'combinatorics', 'enumeration']",1
+"['string', 'greedy', 'string-matching']",1
+"['array', 'binary-search', 'segment-tree', 'simulation', 'ordered-set']",1
+"['array', 'binary-search', 'segment-tree', 'ordered-set']",1
+"['array', 'segment-tree', 'enumeration', 'prefix-sum']",1
+"['array', 'hash-table', 'string', 'depth-first-search', 'breadth-first-search', 'graph', 'topological-sort']",1
+"['array', 'hash-table', 'string', 'design', 'matrix']",1
+"['hash-table', 'math', 'string', 'counting']",1
+"['array', 'hash-table', 'binary-search']",1
+"['array', 'string', 'binary-search', 'segment-tree']",1
+"['two-pointers', 'string', 'dynamic-programming', 'enumeration']",1
+"['array', 'hash-table', 'math', 'dynamic-programming', 'sliding-window', 'heap-priority-queue']",1
+"['array', 'hash-table', 'binary-search', 'design', 'queue', 'ordered-set']",1
+"['array', 'greedy', 'prefix-sum']",1
+"['array', 'math', 'bit-manipulation', 'enumeration']",1
+"['array', 'tree', 'depth-first-search', 'binary-indexed-tree', 'segment-tree']",1
+"['string', 'sorting', 'counting-sort']",1
+"['array', 'math', 'segment-tree']",1
+"['array', 'string', 'rolling-hash', 'string-matching', 'matrix', 'hash-function']",1
+"['array', 'dynamic-programming', 'bit-manipulation', 'graph', 'topological-sort', 'bitmask']",1
+"['array', 'hash-table', 'binary-search', 'union-find', 'graph']",1
+"['array', 'math', 'dynamic-programming', 'bit-manipulation', 'number-theory', 'bitmask']",1
+"['array', 'greedy', 'sliding-window']",1
+"['tree', 'depth-first-search', 'sorting', 'binary-tree']",1
+"['hash-table', 'string', 'dynamic-programming', 'counting', 'enumeration']",1
+"['array', 'hash-table', 'string', 'tree', 'depth-first-search']",1
+"['binary-search', 'bit-manipulation']",1
+"['math', 'string', 'backtracking', 'greedy', 'number-theory']",1
+"['array', 'greedy', 'sorting', 'heap-priority-queue', 'prefix-sum']",1
+"['hash-table', 'binary-search', 'design', 'queue', 'heap-priority-queue', 'data-stream', 'ordered-set']",1
+"['array', 'hash-table', 'counting', 'enumeration']",1
+"['array', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'depth-first-search', 'bitmask']",1
+"['math', 'graph', 'heap-priority-queue', 'number-theory', 'shortest-path']",1
+"['array', 'math', 'binary-indexed-tree', 'segment-tree', 'geometry', 'sorting', 'enumeration']",1
+"['array', 'math', 'binary-indexed-tree', 'segment-tree', 'geometry', 'sorting']",1
+"['array', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph', 'topological-sort']",1
+"['array', 'depth-first-search', 'graph']",1
+"['array', 'string', 'depth-first-search', 'breadth-first-search', 'graph']",1
+"['array', 'hash-table', 'design', 'heap-priority-queue', 'matrix', 'ordered-set']",1
+"['array', 'string', 'bit-manipulation', 'graph', 'topological-sort', 'enumeration']",1
+"['array', 'dynamic-programming', 'bit-manipulation', 'matrix']",1
+"['array', 'binary-search', 'enumeration']",1
+"['string', 'binary-search']",1
+"['array', 'hash-table', 'math', 'enumeration']",1
+"['array', 'dynamic-programming', 'segment-tree']",1
+"['array', 'math', 'sliding-window', 'enumeration', 'number-theory']",1
+"['hash-table', 'string', 'stack', 'simulation']",1
+"['binary-search', 'depth-first-search', 'breadth-first-search', 'graph', 'shortest-path']",1
+"['array', 'stack', 'segment-tree', 'queue', 'sliding-window', 'monotonic-stack', 'monotonic-queue']",1
+"['array', 'hash-table', 'math', 'sliding-window', 'heap-priority-queue']",1
+"['array', 'math', 'stack', 'monotonic-stack']",1
+"['array', 'math', 'sorting', 'simulation']",1
+"['array', 'hash-table', 'dynamic-programming', 'greedy', 'enumeration', 'prefix-sum']",1
+"['array', 'two-pointers', 'binary-search', 'dynamic-programming', 'greedy', 'bit-manipulation', 'graph', 'sorting']",1
+"['array', 'math', 'depth-first-search', 'breadth-first-search', 'graph']",1
+"['array', 'divide-and-conquer', 'matrix']",1
+"['array', 'hash-table', 'sliding-window', 'counting', 'ordered-set']",1
+"['string', 'dynamic-programming', 'greedy', 'prefix-sum']",1
+"['array', 'hash-table', 'math', 'breadth-first-search', 'number-theory']",1
+"['array', 'math', 'greedy', 'bit-manipulation', 'enumeration']",1
+"['array', 'bit-manipulation', 'trie', 'prefix-sum']",1
+"['array', 'hash-table', 'binary-search', 'divide-and-conquer', 'counting', 'prefix-sum']",1
+"['array', 'two-pointers', 'greedy', 'sorting', 'heap-priority-queue']",1
+"['array', 'divide-and-conquer', 'simulation']",1
+"['array', 'hash-table', 'dynamic-programming', 'prefix-sum']",1
+"['array', 'binary-search', 'graph', 'sorting', 'prefix-sum']",1
+"['array', 'hash-table', 'string', 'counting', 'enumeration']",1
+"['math', 'string', 'breadth-first-search', 'union-find', 'ordered-set']",1
+"['math', 'backtracking', 'number-theory']",1
+"['array', 'math', 'tree', 'number-theory']",1
+"['array', 'hash-table', 'sliding-window', 'simulation', 'counting']",1
+"['array', 'math', 'dynamic-programming', 'bit-manipulation', 'combinatorics', 'bitmask']",1
+"['array', 'math', 'greedy', 'bit-manipulation']",1
+"['array', 'two-pointers', 'dynamic-programming', 'sorting']",1
+"['array', 'bit-manipulation', 'simulation']",1
+"['array', 'greedy', 'segment-tree', 'heap-priority-queue']",1
+"['hash-table', 'string', 'sliding-window', 'prefix-sum']",1
+"['array', 'greedy', 'union-find', 'sorting']",1
+"['array', 'binary-search', 'design', 'prefix-sum']",1
+"['array', 'binary-search', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph']",1
+"['hash-table', 'string', 'counting', 'enumeration']",1
+"['array', 'hash-table', 'math', 'tree', 'depth-first-search', 'counting', 'number-theory']",1
+"['hash-table', 'string', 'greedy', 'counting', 'enumeration']",1
+"['two-pointers', 'binary-search', 'enumeration']",1
+"['array', 'math', 'dynamic-programming', 'matrix', 'combinatorics', 'number-theory']",1
+"['array', 'divide-and-conquer', 'binary-indexed-tree', 'segment-tree']",1
+"['math', 'dynamic-programming', 'bit-manipulation', 'combinatorics']",1
+"['array', 'binary-search', 'dynamic-programming', 'graph', 'topological-sort', 'heap-priority-queue', 'shortest-path']",1
+"['string', 'dynamic-programming', 'bit-manipulation', 'graph', 'bitmask']",1
+"['array', 'hash-table', 'stack', 'greedy', 'monotonic-stack']",1
+"['hash-table', 'dynamic-programming', 'graph']",1
+"['array', 'matrix', 'enumeration', 'prefix-sum']",1
+"['math', 'greedy', 'graph']",1
+"['array', 'hash-table', 'matrix', 'enumeration', 'prefix-sum']",1
+"['array', 'hash-table', 'breadth-first-search', 'matrix']",1
+"['hash-table', 'math', 'string', 'sorting', 'number-theory']",1
+"['hash-table', 'string', 'dynamic-programming', 'greedy']",1
+"['math', 'tree', 'depth-first-search']",1
+"['array', 'math', 'dynamic-programming', 'bit-manipulation', 'tree', 'depth-first-search']",1
+"['array', 'recursion', 'matrix']",1
+"['array', 'bit-manipulation', 'recursion', 'enumeration']",1
+"['array', 'math', 'segment-tree', 'number-theory']",1
+"['array', 'dynamic-programming', 'bit-manipulation', 'tree', 'depth-first-search', 'bitmask']",1
+"['array', 'math', 'brainteaser', 'combinatorics']",1
+"['array', 'dynamic-programming', 'queue', 'sliding-window', 'prefix-sum', 'monotonic-queue']",1
+"['hash-table', 'string', 'simulation', 'counting']",1
+"['array', 'binary-search', 'dynamic-programming', 'tree', 'depth-first-search']",1
+"['array', 'hash-table', 'math', 'greedy', 'geometry', 'enumeration']",1
+"['array', 'math', 'queue', 'sliding-window', 'number-theory', 'monotonic-queue']",1
+"['array', 'tree', 'depth-first-search', 'ordered-set']",1
+"['array', 'dynamic-programming', 'bit-manipulation', 'graph', 'heap-priority-queue', 'shortest-path', 'bitmask']",1
+"['hash-table', 'string', 'trie', 'simulation']",1
+"['array', 'dynamic-programming', 'bit-manipulation', 'prefix-sum']",1
+"['binary-search', 'greedy', 'union-find', 'graph', 'minimum-spanning-tree']",1
+"['array', 'math', 'binary-search', 'greedy', 'segment-tree', 'number-theory']",1
+"['array', 'hash-table', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph', 'heap-priority-queue', 'ordered-set']",1
+"['array', 'hash-table', 'string', 'tree', 'depth-first-search', 'hash-function']",1
+"['array', 'hash-table', 'two-pointers', 'string', 'dynamic-programming']",1
+"['array', 'math', 'greedy', 'sorting', 'number-theory']",1
+"['array', 'binary-search', 'dynamic-programming', 'binary-indexed-tree', 'segment-tree']",1
+"['array', 'binary-search', 'ordered-set']",1
+"['array', 'math', 'stack', 'greedy', 'sorting', 'monotonic-stack', 'number-theory']",1
+"['hash-table', 'math', 'string', 'greedy', 'combinatorics']",1
+"['math', 'string', 'greedy', 'enumeration']",1
+"['array', 'tree', 'graph', 'strongly-connected-component']",1
+"['math', 'string', 'dynamic-programming', 'string-matching']",1
+"['array', 'hash-table', 'two-pointers', 'binary-search', 'greedy', 'counting']",1
+"['dynamic-programming', 'depth-first-search', 'breadth-first-search', 'graph']",1
+"['math', 'dynamic-programming', 'tree', 'depth-first-search', 'number-theory']",1
+"['array', 'math', 'two-pointers', 'string', 'greedy', 'game-theory']",1
+"['dynamic-programming', 'graph', 'memoization']",1
+"['array', 'hash-table', 'dynamic-programming', 'sliding-window']",1
+"['array', 'dynamic-programming', 'bit-manipulation', 'tree', 'depth-first-search', 'memoization']",1
+"['math', 'greedy', 'bit-manipulation']",1
+"['array', 'binary-search', 'breadth-first-search', 'union-find', 'heap-priority-queue', 'matrix']",1
+"['array', 'binary-search', 'stack', 'binary-indexed-tree', 'segment-tree', 'heap-priority-queue', 'monotonic-stack']",1
+"['array', 'math', 'binary-search', 'number-theory']",1
+"['array', 'binary-search', 'dynamic-programming', 'stack', 'queue', 'monotonic-stack', 'monotonic-queue']",1
+"['array', 'math', 'matrix', 'simulation']",1
+"['hash-table', 'math', 'string', 'enumeration', 'number-theory', 'prefix-sum']",1
+"['hash-table', 'math', 'string', 'number-theory', 'prefix-sum']",1
+"['array', 'math', 'combinatorics']",1
+"['array', 'hash-table', 'string', 'counting', 'prefix-sum']",1
+"['bit-manipulation', 'graph', 'heap-priority-queue', 'enumeration', 'shortest-path']",1
+"['array', 'simulation', 'counting']",1
+"['array', 'two-pointers', 'binary-search', 'enumeration']",1
+"['dynamic-programming', 'tree', 'depth-first-search', 'sorting', 'heap-priority-queue']",1
+"['array', 'sorting', 'heap-priority-queue', 'simulation']",1
+"['array', 'hash-table', 'stack', 'greedy', 'sorting', 'heap-priority-queue']",1
+"['linked-list', 'math', 'number-theory']",1
+"['array', 'hash-table', 'math', 'binary-search', 'combinatorics', 'counting', 'number-theory', 'prefix-sum']",1
+"['array', 'dynamic-programming', 'backtracking', 'greedy', 'bit-manipulation', 'sorting', 'enumeration']",1
+"['array', 'hash-table', 'breadth-first-search', 'union-find', 'ordered-set']",1
+"['array', 'math', 'divide-and-conquer', 'geometry', 'sorting', 'ordered-set']",1
+"['array', 'math', 'matrix', 'number-theory']",1
+"['array', 'binary-search', 'dynamic-programming', 'greedy', 'sorting']",1
+"['array', 'dynamic-programming', 'stack', 'breadth-first-search', 'union-find', 'heap-priority-queue', 'matrix', 'monotonic-stack']",1
+"['graph', 'design', 'heap-priority-queue', 'shortest-path']",1
+"['array', 'dynamic-programming', 'tree', 'depth-first-search', 'graph']",1
+"['array', 'binary-search', 'greedy', 'binary-indexed-tree', 'segment-tree', 'sorting', 'ordered-set']",1
+"['hash-table', 'design']",1
+"['array', 'dynamic-programming', 'greedy', 'tree', 'binary-tree']",1
+"['array', 'greedy', 'bit-manipulation', 'prefix-sum']",1
+"['array', 'math', 'dynamic-programming', 'sorting', 'prefix-sum']",1
+"['array', 'hash-table', 'string', 'dynamic-programming', 'trie']",1
+"['array', 'hash-table', 'binary-search', 'dynamic-programming', 'memoization', 'sorting', 'matrix', 'ordered-set']",1
+"['divide-and-conquer', 'tree', 'depth-first-search', 'binary-tree']",1
+"['array', 'interactive']",1
+"['array', 'brainteaser', 'sorting', 'prefix-sum']",1
+"['array', 'hash-table', 'bit-manipulation', 'matrix']",1
+"['array', 'binary-search', 'stack', 'binary-indexed-tree', 'segment-tree', 'sorting', 'monotonic-stack']",1
+"['math', 'dynamic-programming', 'greedy', 'brainteaser']",1
+"['array', 'hash-table', 'sliding-window', 'sorting']",1
+"['bit-manipulation', 'brainteaser', 'enumeration']",1
+"['array', 'stack', 'sorting', 'simulation']",1
+"['array', 'hash-table', 'ordered-set']",1
+"['hash-table', 'string', 'dynamic-programming', 'backtracking']",1
+"['array', 'hash-table', 'string', 'sliding-window']",1
+"['union-find', 'interactive', 'counting']",1
+"['dynamic-programming', 'bit-manipulation', 'tree', 'depth-first-search', 'bitmask']",1
+"['array', 'string', 'graph', 'shortest-path']",1
+"['array', 'string', 'dynamic-programming', 'graph', 'trie', 'shortest-path']",1
+"['math', 'dynamic-programming', 'number-theory']",1
+"['array', 'greedy', 'graph', 'ordered-set']",1
+"['array', 'binary-search', 'bit-manipulation']",1
+"['math', 'dynamic-programming', 'bit-manipulation', 'memoization', 'combinatorics']",1
+"['array', 'math', 'binary-search']",1
+"['array', 'divide-and-conquer', 'dynamic-programming', 'segment-tree']",1
+"['hash-table', 'string', 'stack', 'greedy', 'heap-priority-queue']",1
+"['array', 'math', 'simulation', 'combinatorics', 'prefix-sum']",1
+"['array', 'hash-table', 'two-pointers', 'binary-search', 'dynamic-programming', 'sorting', 'counting']",1
+"['array', 'string', 'dynamic-programming', 'suffix-array']",1
+"['math', 'simulation', 'game-theory']",1
+"['array', 'dynamic-programming', 'matrix', 'prefix-sum']",1
+"['math', 'string', 'brainteaser', 'game-theory']",1
+"['string', 'sliding-window', 'enumeration']",1
+"['array', 'math', 'depth-first-search', 'breadth-first-search', 'union-find', 'geometry']",1
+"['array', 'binary-indexed-tree', 'ordered-set']",1
+"['dynamic-programming', 'breadth-first-search', 'memoization']",1
+"['math', 'string', 'dynamic-programming', 'greedy', 'number-theory']",1
+"['array', 'string', 'binary-search', 'sliding-window', 'prefix-sum']",1
+"['array', 'math', 'heap-priority-queue', 'simulation']",1
+"['hash-table', 'math', 'combinatorics', 'enumeration']",1
+"['array', 'hash-table', 'string', 'simulation', 'counting', 'prefix-sum']",1
+"['array', 'math', 'bit-manipulation', 'breadth-first-search', 'game-theory', 'bitmask']",1
+"['array', 'two-pointers', 'dynamic-programming']",1
+"['array', 'string', 'binary-search', 'dynamic-programming', 'trie', 'segment-tree', 'rolling-hash', 'string-matching', 'hash-function']",1
+"['array', 'string', 'binary-search', 'dynamic-programming', 'segment-tree', 'rolling-hash', 'string-matching', 'hash-function']",1
+"['array', 'math', 'binary-search', 'greedy', 'heap-priority-queue']",1
+"['math', 'bit-manipulation', 'recursion', 'simulation']",1
+"['array', 'bit-manipulation', 'enumeration']",1
+"['array', 'hash-table', 'graph', 'matrix']",1
+"['hash-table', 'string', 'dynamic-programming', 'counting']",1
+"['array', 'bit-manipulation', 'breadth-first-search']",1
+"['string', 'binary-search', 'dynamic-programming', 'sliding-window', 'hash-function']",1
+"['array', 'two-pointers', 'sorting', 'enumeration']",1
+"['string', 'dynamic-programming', 'bit-manipulation', 'bitmask']",1
+"['math', 'binary-search', 'dynamic-programming', 'bit-manipulation']",1
+"['array', 'hash-table', 'math', 'binary-indexed-tree', 'geometry', 'line-sweep', 'sorting']",1
+"['array', 'bit-manipulation', 'sorting']",1
+"['breadth-first-search', 'graph', 'prefix-sum']",1
+"['graph', 'prefix-sum']",1
+"['hash-table', 'math', 'dynamic-programming']",1
+"['array', 'hash-table', 'string', 'greedy', 'sorting', 'counting']",1
+"['hash-table', 'math', 'backtracking', 'counting', 'enumeration']",1
+"['array', 'binary-search', 'greedy', 'heap-priority-queue']",1
+"['hash-table', 'linked-list', 'counting']",1
+"['array', 'dynamic-programming', 'greedy', 'bit-manipulation', 'tree', 'sorting']",1
+"['array', 'hash-table', 'matrix', 'counting']",1
+"['array', 'binary-indexed-tree', 'segment-tree', 'simulation']",1
+"['array', 'ordered-set']",1
+"['array', 'hash-table', 'string', 'matrix']",1
+"['math', 'string', 'counting']",1
+"['string', 'greedy', 'sorting', 'counting-sort']",1
+"['math', 'greedy', 'enumeration']",1
+"['array', 'hash-table', 'heap-priority-queue', 'ordered-set']",1
+"['array', 'math', 'geometry', 'sorting', 'ordered-set']",1
+"['hash-table', 'string', 'binary-search', 'prefix-sum']",1
+"['array', 'bit-manipulation', 'union-find', 'graph']",1
+"['array', 'binary-search', 'stack', 'monotonic-stack']",1
+"['array', 'math', 'binary-search', 'bit-manipulation', 'combinatorics', 'number-theory']",1
+"['array', 'binary-search', 'dynamic-programming', 'bit-manipulation', 'segment-tree', 'queue']",1
+"['array', 'hash-table', 'math', 'combinatorics', 'counting']",1
+"['array', 'tree', 'depth-first-search', 'binary-tree']",1
+"['hash-table', 'design', 'sorting', 'heap-priority-queue', 'data-stream']",1
+"['linked-list', 'two-pointers', 'sorting']",1
+"['array', 'hash-table', 'sliding-window', 'sorting', 'counting']",1
+"['array', 'hash-table', 'string', 'graph', 'design', 'topological-sort', 'matrix']",1
+"['array', 'hash-table', 'greedy', 'sliding-window', 'sorting', 'heap-priority-queue']",1
+"['math', 'two-pointers', 'binary-search']",1
+"['hash-table', 'string', 'design', 'ordered-set']",1
+"['array', 'stack']",1
+"['string', 'depth-first-search', 'design', 'trie', 'sorting', 'heap-priority-queue', 'data-stream']",1
+"['array', 'hash-table', 'bit-manipulation', 'sorting']",1
+"['string', 'greedy', 'queue']",1
+"['hash-table', 'two-pointers', 'tree', 'depth-first-search', 'breadth-first-search', 'binary-search-tree', 'binary-tree']",1
+"['array', 'divide-and-conquer', 'stack', 'tree', 'monotonic-stack', 'binary-tree']",1
+"['array', 'two-pointers', 'binary-search', 'sliding-window', 'sorting', 'heap-priority-queue']",1
+"['array', 'hash-table', 'greedy', 'heap-priority-queue']",1
+"['math', 'bit-manipulation', 'depth-first-search', 'breadth-first-search']",1
+"['hash-table', 'string', 'depth-first-search', 'design', 'trie']",1
+"['array', 'math', 'backtracking']",1
+"['hash-table', 'string', 'backtracking', 'enumeration']",1
+"['array', 'binary-indexed-tree', 'segment-tree', 'queue', 'sliding-window', 'heap-priority-queue', 'ordered-set', 'monotonic-queue']",1
+"['array', 'dynamic-programming', 'sliding-window', 'prefix-sum']",1
+"['array', 'hash-table', 'string', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'memoization', 'bitmask']",1
+"['array', 'hash-table', 'string', 'trie', 'sorting', 'heap-priority-queue', 'bucket-sort', 'counting']",1
+"['tree', 'design', 'binary-search-tree', 'heap-priority-queue', 'binary-tree', 'data-stream']",1
+"['array', 'hash-table', 'math', 'binary-search', 'sorting', 'randomized']",1
+"['linked-list', 'stack', 'design', 'doubly-linked-list', 'ordered-set']",1
+"['array', 'binary-search', 'dynamic-programming', 'sliding-window', 'rolling-hash', 'hash-function']",1
+"['array', 'hash-table', 'string', 'trie', 'sorting']",1
+"['array', 'string', 'design', 'iterator']",1
+"['hash-table', 'string', 'design', 'trie', 'sorting']",1
+"['hash-table', 'string', 'stack', 'sorting']",1
+"['tree', 'depth-first-search', 'string-matching', 'binary-tree', 'hash-function']",1
+"['array', 'string', 'dynamic-programming', 'depth-first-search', 'trie', 'sorting']",1
+"['math', 'geometry', 'rejection-sampling', 'randomized']",1
+"['array', 'string', 'stack', 'greedy']",1
+"['array', 'math', 'dynamic-programming', 'recursion', 'game-theory']",1
+"['string', 'dynamic-programming', 'stack', 'breadth-first-search', 'memoization']",1
+"['backtracking', 'interactive']",1
+"['array', 'hash-table', 'backtracking', 'bit-manipulation']",1
+"['array', 'hash-table', 'stack', 'monotonic-stack']",1
+"['array', 'math', 'binary-search', 'reservoir-sampling', 'prefix-sum', 'ordered-set', 'randomized']",1
+"['array', 'string', 'depth-first-search', 'breadth-first-search', 'graph', 'heap-priority-queue', 'matrix', 'shortest-path']",1
+"['array', 'depth-first-search', 'breadth-first-search', 'graph', 'heap-priority-queue', 'matrix', 'shortest-path']",1
+"['math', 'dynamic-programming', 'recursion', 'memoization']",1
+"['string', 'dynamic-programming', 'depth-first-search', 'breadth-first-search']",1
+"['array', 'hash-table', 'two-pointers', 'string', 'sorting']",1
+"['array', 'hash-table', 'math', 'prefix-sum']",1
+"['array', 'two-pointers', 'string', 'sorting']",1
+"['array', 'string', 'greedy', 'trie', 'sorting']",1
+"['array', 'math', 'binary-search', 'prefix-sum', 'randomized']",1
+"['hash-table', 'string', 'design', 'hash-function']",1
+"['string', 'stack', 'tree', 'depth-first-search', 'binary-tree']",1
+"['array', 'math', 'string', 'sorting']",1
+"['math', 'two-pointers', 'string']",1
+"['divide-and-conquer', 'tree']",1
+"['array', 'depth-first-search']",1
+"['hash-table', 'two-pointers', 'string', 'sliding-window']",1
+"['array', 'two-pointers', 'matrix', 'simulation']",1
+"['array', 'binary-search', 'design', 'segment-tree', 'ordered-set']",1
+"['breadth-first-search', 'graph', 'shortest-path']",1
+"['array', 'depth-first-search', 'graph', 'topological-sort']",1
+"['math', 'geometry', 'number-theory']",1
+"['array', 'greedy', 'bit-manipulation', 'matrix']",1
+"['hash-table', 'math', 'sorting', 'counting', 'enumeration']",1
+"['math', 'binary-search', 'dynamic-programming']",1
+"['array', 'hash-table', 'binary-search', 'sorting']",1
+"['dynamic-programming', 'tree', 'recursion', 'memoization', 'binary-tree']",1
+"['stack', 'tree', 'depth-first-search', 'binary-search-tree', 'binary-tree']",1
+"['math', 'string', 'sorting']",1
+"['array', 'design', 'counting', 'iterator']",1
+"['stack', 'design', 'monotonic-stack', 'data-stream']",1
+"['array', 'math', 'string', 'binary-search', 'dynamic-programming']",1
+"['array', 'divide-and-conquer', 'sorting', 'heap-priority-queue', 'merge-sort', 'bucket-sort', 'radix-sort', 'counting-sort']",1
+"['math', 'dynamic-programming', 'graph', 'topological-sort', 'memoization', 'game-theory']",1
+"['array', 'divide-and-conquer', 'dynamic-programming', 'queue', 'monotonic-queue']",1
+"['tree', 'breadth-first-search', 'design', 'binary-tree']",1
+"['array', 'hash-table', 'two-pointers', 'sorting', 'counting']",1
+"['array', 'math', 'divide-and-conquer']",1
+"['design', 'queue', 'data-stream']",1
+"['string', 'stack', 'greedy', 'queue']",1
+"['array', 'string', 'sorting']",1
+"['array', 'hash-table', 'math', 'geometry', 'sorting']",1
+"['array', 'two-pointers', 'string', 'greedy']",1
+"['array', 'string', 'dynamic-programming', 'bit-manipulation', 'bitmask']",1
+"['array', 'greedy', 'sorting', 'counting']",1
+"['hash-table', 'depth-first-search', 'union-find', 'graph']",1
+"['design', 'heap-priority-queue', 'ordered-set']",1
+"['array', 'segment-tree', 'line-sweep', 'ordered-set']",1
+"['array', 'binary-search', 'design', 'segment-tree', 'prefix-sum', 'ordered-set']",1
+"['dynamic-programming', 'bit-manipulation', 'breadth-first-search', 'graph', 'bitmask']",1
+"['binary-search', 'design', 'segment-tree', 'prefix-sum', 'ordered-set']",1
+"['hash-table', 'string', 'stack', 'recursion']",1
+"['array', 'math', 'dynamic-programming', 'matrix']",1
+"['array', 'hash-table', 'string', 'breadth-first-search']",1
+"['hash-table', 'string', 'backtracking', 'bit-manipulation']",1
+"['array', 'line-sweep', 'sorting', 'heap-priority-queue']",1
+"['string', 'recursion']",1
+"['hash-table', 'two-pointers', 'string', 'greedy']",1
+"['greedy', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph']",1
+"['hash-table', 'math', 'string', 'stack', 'recursion']",1
+"['array', 'dynamic-programming', 'backtracking', 'breadth-first-search', 'memoization', 'matrix']",1
+"['tree', 'binary-search-tree', 'recursion', 'binary-tree']",1
+"['array', 'two-pointers', 'binary-search', 'sorting', 'heap-priority-queue']",1
+"['dynamic-programming', 'depth-first-search', 'breadth-first-search', 'graph', 'heap-priority-queue', 'shortest-path']",1
+"['array', 'hash-table', 'string', 'binary-search', 'dynamic-programming', 'trie', 'sorting']",1
+"['backtracking', 'depth-first-search', 'breadth-first-search', 'graph']",1
+"['array', 'union-find', 'matrix']",1
+"['math', 'dynamic-programming', 'probability-and-statistics']",1
+"['array', 'math', 'bit-manipulation', 'brainteaser', 'game-theory']",1
+"['array', 'hash-table', 'dynamic-programming', 'sorting']",1
+"['array', 'two-pointers', 'bit-manipulation', 'matrix', 'simulation']",1
+"['math', 'dynamic-programming', 'sliding-window', 'probability-and-statistics']",1
+"['array', 'math', 'string', 'interactive', 'game-theory']",1
+"['two-pointers', 'string', 'stack', 'simulation']",1
+"['array', 'two-pointers', 'dynamic-programming', 'enumeration']",1
+"['math', 'rejection-sampling', 'randomized', 'probability-and-statistics']",1
+"['math', 'dynamic-programming', 'bit-manipulation', 'memoization', 'game-theory', 'bitmask']",1
+"['array', 'binary-search', 'stack', 'monotonic-stack', 'ordered-set']",1
+"['array', 'hash-table', 'two-pointers', 'design', 'data-stream']",1
+"['hash-table', 'string', 'bit-manipulation', 'sliding-window', 'rolling-hash', 'hash-function']",1
+"['array', 'math', 'two-pointers']",1
+"['hash-table', 'math', 'two-pointers']",1
+"['string', 'depth-first-search', 'design', 'trie']",1
+"['array', 'string', 'backtracking', 'trie', 'matrix']",1
+"['array', 'divide-and-conquer', 'sorting', 'heap-priority-queue', 'quickselect']",1
+"['array', 'divide-and-conquer', 'binary-indexed-tree', 'segment-tree', 'line-sweep', 'sorting', 'heap-priority-queue', 'ordered-set']",1
+"['array', 'sliding-window', 'sorting', 'bucket-sort', 'ordered-set']",1
+"['binary-search', 'bit-manipulation', 'tree', 'binary-tree']",1
+"['math', 'string', 'stack']",1
+"['math', 'dynamic-programming', 'recursion']",1
+"['array', 'binary-search', 'divide-and-conquer', 'matrix']",1
+"['math', 'string', 'dynamic-programming', 'recursion', 'memoization']",1
+"['array', 'hash-table', 'two-pointers', 'string', 'design']",1
+"['hash-table', 'two-pointers', 'string']",1
+"['array', 'two-pointers', 'design', 'iterator']",1
+"['array', 'stack', 'tree', 'binary-search-tree', 'recursion', 'monotonic-stack', 'binary-tree']",1
+"['hash-table', 'math', 'dynamic-programming', 'heap-priority-queue']",1
+"['array', 'hash-table', 'math', 'binary-search', 'bit-manipulation', 'sorting']",1
+"['array', 'string', 'depth-first-search', 'breadth-first-search', 'graph', 'topological-sort']",1
+"['binary-search', 'tree', 'depth-first-search', 'binary-search-tree', 'binary-tree']",1
+"['array', 'string', 'design']",1
+"['two-pointers', 'stack', 'tree', 'depth-first-search', 'binary-search-tree', 'heap-priority-queue', 'binary-tree']",1
+"['math', 'string', 'recursion']",1
+"['two-pointers', 'graph', 'interactive']",1
+"['array', 'string', 'greedy', 'sorting']",1
+"['array', 'hash-table', 'divide-and-conquer', 'sorting', 'counting']",1
+"['hash-table', 'string', 'sorting', 'heap-priority-queue', 'bucket-sort', 'counting']",1
+"['array', 'sorting', 'bucket-sort', 'radix-sort']",1
+"['array', 'binary-search', 'divide-and-conquer']",1
+"['string', 'dynamic-programming', 'recursion']",1
+"['linked-list', 'divide-and-conquer', 'heap-priority-queue', 'merge-sort']",1
+"['array', 'hash-table', 'backtracking', 'matrix']",1
+"['array', 'two-pointers', 'dynamic-programming', 'stack', 'monotonic-stack']",1
+"['string', 'dynamic-programming', 'greedy', 'recursion']",1
+"['array', 'backtracking', 'sorting']",1
+"['array', 'math', 'matrix']",1
+"['array', 'divide-and-conquer', 'dynamic-programming']",1
+"['math', 'string', 'bit-manipulation', 'simulation']",1
+"['array', 'string', 'backtracking', 'depth-first-search', 'matrix']",1
+"['dynamic-programming', 'backtracking', 'tree', 'binary-search-tree', 'binary-tree']",1
+"['math', 'dynamic-programming', 'tree', 'binary-search-tree', 'binary-tree']",1
+"['array', 'divide-and-conquer', 'tree', 'binary-search-tree', 'binary-tree']",1
+"['linked-list', 'divide-and-conquer', 'tree', 'binary-search-tree', 'binary-tree']",1
+"['backtracking', 'tree', 'depth-first-search', 'binary-tree']",1
+"['linked-list', 'stack', 'tree', 'depth-first-search', 'binary-tree']",1
+"['hash-table', 'string', 'backtracking', 'breadth-first-search']",1
+"['hash-table', 'depth-first-search', 'breadth-first-search', 'graph']",1
+"['array', 'hash-table', 'string', 'dynamic-programming', 'trie', 'memoization']",1
+"['array', 'hash-table', 'string', 'dynamic-programming', 'backtracking', 'trie', 'memoization']",1
+"['linked-list', 'sorting']",1
+"['linked-list', 'two-pointers', 'divide-and-conquer', 'sorting', 'merge-sort']",1
+"['array', 'math', 'stack']",1
+"['stack', 'design']",1
+"['math', 'dynamic-programming', 'breadth-first-search']",1
+"['array', 'design', 'queue', 'iterator']",1
+"['math', 'string', 'backtracking']",1
+"['array', 'design', 'iterator']",1
+"['math', 'depth-first-search', 'breadth-first-search']",1
+"['math', 'divide-and-conquer']",1
+"['array', 'hash-table', 'linked-list', 'design', 'queue']",1
+"['linked-list', 'math', 'reservoir-sampling', 'randomized']",1
+"['array', 'math', 'design', 'randomized']",1
+"['depth-first-search', 'trie']",1
+"['hash-table', 'string', 'queue', 'counting']",1
+"['hash-table', 'string', 'bit-manipulation', 'sorting']",1
+"['array', 'hash-table', 'math', 'geometry', 'line-sweep']",1
+"['hash-table', 'string', 'divide-and-conquer', 'sliding-window']",1
+"['dynamic-programming', 'greedy', 'bit-manipulation', 'memoization']",1
+"['array', 'string', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph', 'shortest-path']",1
+"['array', 'binary-indexed-tree', 'segment-tree', 'sorting']",1
+"['array', 'depth-first-search', 'matrix']",1
+"['array', 'hash-table', 'bit-manipulation', 'trie']",1
+"['array', 'string', 'backtracking', 'trie']",1
+"['linked-list', 'stack', 'tree', 'depth-first-search', 'binary-search-tree', 'binary-tree', 'doubly-linked-list']",1
+"['array', 'divide-and-conquer', 'tree', 'matrix']",1
+"['string', 'tree', 'depth-first-search', 'breadth-first-search']",1
+"['tree', 'breadth-first-search']",1
+"['linked-list', 'depth-first-search', 'doubly-linked-list']",1
+"['tree', 'depth-first-search', 'breadth-first-search', 'design', 'binary-tree']",1
+['trie'],1
+"['array', 'graph', 'topological-sort']",1
+"['string', 'tree', 'depth-first-search', 'breadth-first-search', 'design', 'binary-search-tree', 'binary-tree']",1
+"['stack', 'depth-first-search', 'breadth-first-search']",1
+"['array', 'binary-search', 'matrix', 'prefix-sum', 'ordered-set']",1
+"['array', 'binary-search', 'design', 'queue', 'data-stream']",1
+"['array', 'string', 'bit-manipulation']",1
+"['array', 'two-pointers', 'binary-search', 'bit-manipulation']",1
+"['math', 'brainteaser', 'game-theory']",1
+"['math', 'dynamic-programming', 'backtracking', 'memoization', 'game-theory']",1
+"['two-pointers', 'design', 'sorting', 'heap-priority-queue', 'data-stream']",1
+"['string', 'tree', 'depth-first-search', 'breadth-first-search', 'design', 'binary-tree']",1
+"['string', 'backtracking', 'breadth-first-search']",1
+"['array', 'binary-search', 'depth-first-search', 'breadth-first-search', 'matrix']",1
+"['array', 'design', 'prefix-sum']",1
+"['array', 'design', 'matrix', 'prefix-sum']",1
+"['array', 'divide-and-conquer', 'design', 'binary-indexed-tree', 'segment-tree']",1
+"['array', 'design', 'binary-indexed-tree', 'segment-tree', 'matrix']",1
+"['array', 'two-pointers', 'stack', 'greedy', 'monotonic-stack']",1
+"['hash-table', 'design', 'data-stream']",1
+"['array', 'divide-and-conquer', 'greedy', 'sorting', 'quickselect']",1
+"['dynamic-programming', 'bit-manipulation']",1
+"['depth-first-search', 'breadth-first-search']",1
+"['stack', 'tree', 'depth-first-search', 'design', 'queue', 'iterator']",1
+"['array', 'design', 'queue', 'data-stream']",1
+"['array', 'hash-table', 'divide-and-conquer', 'sorting', 'heap-priority-queue', 'bucket-sort', 'counting', 'quickselect']",1
+"['dynamic-programming', 'backtracking', 'bit-manipulation', 'bitmask']",1
+"['hash-table', 'binary-search', 'union-find', 'design', 'data-stream', 'ordered-set']",1
+"['array', 'hash-table', 'design', 'queue', 'simulation']",1
+"['hash-table', 'linked-list', 'design', 'heap-priority-queue']",1
+"['math', 'dynamic-programming', 'backtracking']",1
+"['array', 'string', 'backtracking', 'enumeration']",1
+"['array', 'queue', 'sorting', 'simulation']",1
+"['array', 'hash-table', 'math', 'bit-manipulation']",1
+"['array', 'greedy', 'heap-priority-queue', 'ordered-set']",1
+"['array', 'math', 'greedy', 'sorting', 'heap-priority-queue', 'game-theory']",1
+"['array', 'dynamic-programming', 'segment-tree', 'queue', 'heap-priority-queue', 'prefix-sum', 'monotonic-queue']",1
+"['array', 'two-pointers', 'union-find', 'graph', 'sorting']",1
+"['string', 'trie', 'rolling-hash', 'suffix-array', 'hash-function']",1
+"['array', 'stack', 'queue', 'simulation']",1
+"['array', 'two-pointers', 'binary-search', 'prefix-sum']",1
+"['array', 'hash-table', 'binary-search', 'greedy']",1
+"['tree', 'graph']",1
+"['array', 'depth-first-search', 'union-find']",1
+"['union-find', 'graph', 'minimum-spanning-tree']",1
+"['array', 'greedy', 'sorting', 'matrix']",1
+"['array', 'math', 'dynamic-programming', 'graph', 'topological-sort', 'memoization', 'matrix', 'game-theory']",1
+"['array', 'math', 'dynamic-programming', 'combinatorics', 'number-theory']",1
+"['array', 'divide-and-conquer', 'bit-manipulation', 'sorting', 'heap-priority-queue', 'matrix', 'prefix-sum', 'quickselect']",1
+"['hash-table', 'math', 'counting']",1
+"['array', 'hash-table', 'depth-first-search']",1
+"['math', 'greedy', 'heap-priority-queue']",1
+"['array', 'two-pointers', 'dynamic-programming', 'bit-manipulation', 'sorting', 'bitmask']",1
+"['array', 'linked-list', 'divide-and-conquer', 'design', 'simulation', 'doubly-linked-list']",1
+"['graph', 'enumeration']",1
+"['hash-table', 'string', 'divide-and-conquer', 'bit-manipulation', 'sliding-window']",1
+"['array', 'two-pointers', 'greedy', 'string-matching']",1
+"['array', 'math', 'tree', 'depth-first-search', 'number-theory']",1
+"['array', 'math', 'stack', 'heap-priority-queue', 'monotonic-stack']",1
+"['array', 'depth-first-search', 'breadth-first-search', 'matrix', 'interactive']",1
+"['math', 'bit-manipulation', 'simulation']",1
+"['array', 'linked-list', 'design', 'queue', 'data-stream']",1
+"['dynamic-programming', 'graph']",1
+"['dynamic-programming', 'bit-manipulation', 'memoization', 'bitmask']",1
+"['array', 'hash-table', 'binary-search', 'simulation']",1
+"['array', 'depth-first-search', 'breadth-first-search', 'matrix', 'strongly-connected-component']",1
+"['array', 'math', 'divide-and-conquer', 'dynamic-programming', 'tree', 'union-find', 'binary-search-tree', 'memoization', 'combinatorics', 'binary-tree']",1
+"['array', 'hash-table', 'two-pointers', 'design']",1
+"['array', 'hash-table', 'math', 'two-pointers']",1
+"['array', 'union-find', 'graph', 'minimum-spanning-tree']",1
+"['array', 'string', 'stack']",1
+"['hash-table', 'tree', 'depth-first-search', 'design']",1
+"['design', 'simulation', 'counting']",1
+"['array', 'heap-priority-queue', 'simulation', 'ordered-set']",1
+"['array', 'math', 'geometry', 'sliding-window', 'sorting']",1
+"['dynamic-programming', 'bit-manipulation', 'memoization']",1
+"['hash-table', 'tree', 'depth-first-search', 'binary-tree', 'counting']",1
+"['dynamic-programming', 'bit-manipulation', 'tree', 'enumeration', 'bitmask']",1
+"['array', 'string', 'binary-search', 'interactive']",1
+"['math', 'design', 'segment-tree']",1
+"['string', 'depth-first-search', 'breadth-first-search', 'enumeration']",1
+"['array', 'math', 'stack', 'tree', 'design', 'binary-tree']",1
+"['linked-list', 'math', 'two-pointers']",1
+"['hash-table', 'string', 'dynamic-programming', 'enumeration']",1
+"['hash-table', 'string', 'greedy', 'sorting']",1
+"['array', 'math', 'binary-search', 'greedy', 'sorting', 'heap-priority-queue']",1
+"['hash-table', 'two-pointers', 'tree', 'binary-tree']",1
+"['array', 'hash-table', 'design', 'data-stream']",1
+"['array', 'hash-table', 'binary-search', 'sliding-window', 'prefix-sum']",1
+"['array', 'hash-table', 'two-pointers', 'binary-search', 'graph', 'sorting', 'counting']",1
+"['dynamic-programming', 'graph', 'topological-sort', 'heap-priority-queue', 'shortest-path']",1
+"['math', 'recursion', 'number-theory']",1
+"['array', 'depth-first-search', 'breadth-first-search', 'graph', 'heap-priority-queue', 'matrix', 'interactive', 'shortest-path']",1
+"['array', 'math', 'binary-search', 'geometry', 'enumeration']",1
+"['string', 'rolling-hash', 'hash-function']",1
+"['two-pointers', 'string', 'stack', 'greedy']",1
+"['array', 'binary-search', 'binary-indexed-tree']",1
+"['math', 'greedy', 'recursion']",1
+"['array', 'binary-search', 'depth-first-search', 'breadth-first-search', 'union-find', 'matrix']",1
+"['dynamic-programming', 'graph', 'topological-sort', 'shortest-path']",1
+"['string', 'dynamic-programming', 'suffix-array']",1
+"['array', 'hash-table', 'string', 'backtracking']",1
+"['array', 'string', 'divide-and-conquer', 'sorting', 'heap-priority-queue', 'quickselect']",1
+"['array', 'hash-table', 'tree', 'depth-first-search', 'breadth-first-search', 'design']",1
+"['array', 'hash-table', 'math', 'dynamic-programming', 'bit-manipulation', 'counting', 'number-theory', 'bitmask']",1
+"['array', 'math', 'union-find', 'sorting', 'number-theory']",1
+"['two-pointers', 'string', 'stack']",1
+"['string', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'bitmask']",1
+"['dynamic-programming', 'tree', 'depth-first-search', 'union-find']",1
+"['math', 'dynamic-programming', 'tree', 'binary-tree', 'game-theory']",1
+"['array', 'hash-table', 'design', 'counting']",1
+"['string', 'backtracking', 'greedy', 'counting', 'enumeration']",1
+"['array', 'hash-table', 'math', 'string', 'dynamic-programming', 'stack', 'memoization']",1
+"['array', 'sorting', 'prefix-sum', 'ordered-set']",1
+"['array', 'hash-table', 'counting', 'enumeration', 'prefix-sum']",1
+"['array', 'math', 'greedy', 'counting', 'game-theory']",1
+"['hash-table', 'design', 'heap-priority-queue', 'data-stream', 'ordered-set']",1
+"['array', 'two-pointers', 'binary-search', 'dynamic-programming', 'bit-manipulation', 'ordered-set', 'bitmask']",1
+"['array', 'hash-table', 'string', 'trie', 'hash-function']",1
+"['array', 'hash-table', 'sorting', 'prefix-sum']",1
+"['array', 'hash-table', 'heap-priority-queue']",1
+"['array', 'math', 'backtracking', 'bit-manipulation', 'combinatorics', 'enumeration']",1
+"['array', 'dynamic-programming', 'bit-manipulation', 'memoization', 'bitmask']",1
+"['array', 'math', 'counting', 'number-theory']",1
+"['array', 'depth-first-search', 'graph', 'matrix']",1
+"['array', 'math', 'recursion', 'queue', 'simulation']",1
+"['design', 'queue', 'heap-priority-queue', 'data-stream', 'ordered-set']",1
+"['math', 'string', 'combinatorics']",1
+"['design', 'heap-priority-queue']",1
+"['array', 'binary-search', 'line-sweep', 'sorting', 'heap-priority-queue']",1
+"['array', 'counting', 'prefix-sum']",1
+"['hash-table', 'dynamic-programming', 'graph', 'topological-sort', 'memoization', 'counting']",1
+"['array', 'math', 'binary-search', 'prefix-sum']",1
+"['string', 'dynamic-programming', 'sliding-window', 'prefix-sum']",1
+"['array', 'hash-table', 'bit-manipulation', 'depth-first-search', 'trie']",1
+"['array', 'math', 'sorting', 'heap-priority-queue', 'matrix', 'prefix-sum']",1
+"['array', 'binary-search', 'simulation', 'prefix-sum']",1
+"['math', 'string', 'dynamic-programming', 'stack']",1
+"['array', 'two-pointers', 'string', 'binary-search']",1
+"['array', 'tree', 'binary-search-tree', 'binary-tree', 'ordered-set']",1
+"['array', 'math', 'dynamic-programming', 'bit-manipulation', 'brainteaser', 'game-theory']",1
+"['array', 'hash-table', 'design', 'heap-priority-queue', 'ordered-set']",1
+"['math', 'dynamic-programming', 'tree', 'graph', 'topological-sort', 'combinatorics']",1
+"['array', 'binary-search', 'rolling-hash', 'suffix-array', 'hash-function']",1
+"['array', 'dynamic-programming', 'graph']",1
+"['hash-table', 'binary-search', 'tree', 'depth-first-search', 'binary-tree']",1
+"['hash-table', 'string', 'rolling-hash', 'hash-function']",1
+"['array', 'math', 'interactive']",1
+"['array', 'two-pointers', 'stack', 'monotonic-stack']",1
+"['array', 'hash-table', 'matrix', 'prefix-sum']",1
+"['string', 'backtracking', 'stack', 'breadth-first-search', 'sorting']",1
+"['array', 'math', 'probability-and-statistics']",1
+"['array', 'sorting', 'heap-priority-queue', 'simulation', 'prefix-sum']",1
+"['hash-table', 'string', 'backtracking', 'stack', 'breadth-first-search', 'sorting']",1
+"['math', 'tree', 'binary-tree']",1
+"['array', 'counting']",1
+"['array', 'hash-table', 'stack', 'monotonic-stack', 'prefix-sum']",1
+"['two-pointers', 'string', 'dynamic-programming', 'greedy', 'rolling-hash', 'hash-function']",1
+"['hash-table', 'string', 'graph']",1
+"['array', 'binary-search', 'design', 'binary-indexed-tree', 'segment-tree']",1
+"['hash-table', 'stack', 'design', 'heap-priority-queue']",1
+"['array', 'hash-table', 'string', 'bit-manipulation', 'prefix-sum']",1
+"['array', 'hash-table', 'string', 'bit-manipulation', 'trie']",1
+"['math', 'greedy', 'sorting', 'heap-priority-queue']",1
+"['depth-first-search', 'graph', 'biconnected-component']",1
+['breadth-first-search'],1
+"['array', 'hash-table', 'binary-search', 'matrix', 'counting']",1
+"['math', 'binary-search', 'combinatorics', 'number-theory']",1
+"['array', 'hash-table', 'binary-search', 'counting']",1
+"['two-pointers', 'binary-search', 'stack', 'tree', 'depth-first-search', 'binary-search-tree', 'binary-tree']",1
+"['math', 'backtracking', 'breadth-first-search']",1
+"['math', 'dynamic-programming', 'brainteaser', 'probability-and-statistics']",1
+"['array', 'math', 'dynamic-programming', 'probability-and-statistics']",1
+"['string', 'depth-first-search', 'breadth-first-search', 'interactive']",1
+"['math', 'two-pointers', 'binary-search', 'interactive']",1
+"['hash-table', 'string', 'backtracking', 'counting']",1
+"['string', 'binary-search', 'dynamic-programming', 'rolling-hash', 'suffix-array', 'hash-function']",1
+"['array', 'two-pointers', 'dynamic-programming', 'greedy']",1
+"['string', 'union-find']",1
+"['backtracking', 'breadth-first-search']",1
+"['hash-table', 'math', 'enumeration']",1
+"['array', 'math', 'divide-and-conquer', 'geometry', 'sorting', 'heap-priority-queue', 'quickselect']",1
+"['array', 'dynamic-programming', 'stack', 'sorting', 'monotonic-stack', 'ordered-set']",1
+"['array', 'backtracking', 'bit-manipulation', 'matrix']",1
+"['hash-table', 'string', 'binary-search', 'design']",1
+"['array', 'two-pointers', 'line-sweep']",1
+"['array', 'string', 'union-find', 'graph']",1
+"['array', 'hash-table', 'sliding-window', 'counting']",1
+"['array', 'hash-table', 'math', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'bitmask']",1
+"['array', 'hash-table', 'graph']",1
+"['math', 'stack', 'simulation']",1
+"['array', 'stack', 'tree', 'binary-search-tree', 'monotonic-stack', 'binary-tree']",1
+"['hash-table', 'string', 'bit-manipulation', 'sliding-window']",1
+"['array', 'two-pointers', 'string', 'trie', 'string-matching']",1
+"['math', 'dynamic-programming', 'brainteaser', 'game-theory']",1
+"['array', 'hash-table', 'binary-search', 'dynamic-programming']",1
+"['array', 'math', 'geometry', 'sorting', 'matrix']",1
+"['array', 'string', 'design', 'trie', 'data-stream']",1
+"['array', 'hash-table', 'depth-first-search', 'breadth-first-search']",1
+"['array', 'math', 'sliding-window', 'sorting']",1
+"['string', 'binary-search', 'sliding-window', 'rolling-hash', 'suffix-array', 'hash-function']",1
+"['array', 'hash-table', 'two-pointers', 'string', 'dynamic-programming', 'sorting']",1
+"['two-pointers', 'string', 'binary-search', 'greedy']",1
+"['array', 'math', 'string', 'greedy', 'sorting']",1
+"['hash-table', 'design', 'sorting']",1
+"['tree', 'depth-first-search', 'breadth-first-search', 'graph', 'topological-sort']",1
+"['array', 'hash-table', 'math', 'sliding-window', 'prefix-sum']",1
+"['array', 'hash-table', 'string', 'dynamic-programming', 'backtracking', 'bit-manipulation', 'counting', 'bitmask']",1
+"['array', 'hash-table', 'string', 'sorting', 'ordered-set']",1
+"['array', 'dynamic-programming', 'queue', 'sliding-window', 'heap-priority-queue', 'monotonic-queue']",1
+"['array', 'binary-search', 'matrix', 'interactive']",1
+"['array', 'hash-table', 'design', 'queue', 'data-stream']",1
+"['array', 'binary-search', 'heap-priority-queue', 'matrix']",1
+"['array', 'hash-table', 'math', 'bit-manipulation', 'prefix-sum']",1
+"['array', 'dynamic-programming', 'memoization', 'matrix', 'prefix-sum']",1
+"['math', 'string', 'number-theory']",1
+"['bit-manipulation', 'tree', 'depth-first-search', 'breadth-first-search', 'binary-tree']",1
+"['hash-table', 'string', 'bit-manipulation', 'rolling-hash', 'hash-function']",1
+"['array', 'math', 'dynamic-programming', 'backtracking', 'combinatorics', 'probability-and-statistics']",1
+"['array', 'linked-list', 'stack', 'design', 'doubly-linked-list', 'data-stream']",1
+"['array', 'design', 'matrix']",1
+"['array', 'hash-table', 'binary-search', 'dynamic-programming', 'sliding-window']",1
+"['binary-search', 'dynamic-programming', 'bit-manipulation', 'tree', 'depth-first-search', 'breadth-first-search', 'design']",1
+"['array', 'hash-table', 'binary-search', 'greedy', 'heap-priority-queue']",1
+"['union-find', 'graph', 'sorting', 'minimum-spanning-tree', 'strongly-connected-component']",1
+"['linked-list', 'math', 'recursion']",1
+"['array', 'brainteaser', 'simulation']",1
+"['string', 'greedy', 'binary-indexed-tree', 'segment-tree']",1
+"['hash-table', 'bit-manipulation', 'tree', 'depth-first-search']",1
+"['array', 'math', 'geometry', 'randomized']",1
+"['hash-table', 'tree', 'depth-first-search', 'breadth-first-search', 'counting']",1
+"['array', 'math', 'dynamic-programming', 'prefix-sum']",1
+"['hash-table', 'string', 'dynamic-programming', 'bit-manipulation']",1
+"['array', 'binary-indexed-tree', 'simulation']",1
+"['string', 'bit-manipulation', 'simulation']",1
+"['hash-table', 'string', 'design']",1
+"['array', 'math', 'string', 'backtracking']",1
+"['array', 'hash-table', 'string', 'tree', 'depth-first-search', 'breadth-first-search']",1
+"['array', 'hash-table', 'string', 'backtracking', 'sort', 'union-find']",1
+"['hash-table', 'tree', 'depth-first-search', 'breadth-first-search', 'design', 'binary-tree']",1
+"['array', 'depth-first-search', 'breadth-first-search', 'union-find', 'matrix', 'counting']",1
+"['array', 'string', 'binary-search', 'trie', 'sorting', 'heap-priority-queue']",1
+"['array', 'divide-and-conquer', 'interactive']",1
+"['string', 'backtracking', 'design', 'iterator']",1
+['enumeration'],1
+"['array', 'binary-search', 'matrix', 'prefix-sum']",1
+"['tree', 'depth-first-search', 'binary-search-tree', 'sorting', 'binary-tree']",1
+"['array', 'depth-first-search', 'breadth-first-search']",1
+"['array', 'hash-table', 'breadth-first-search', 'graph', 'sorting']",1
+"['dynamic-programming', 'memoization', 'sorting']",1
+"['string', 'trie', 'rolling-hash', 'hash-function']",1
+"['dynamic-programming', 'graph', 'shortest-path']",1
+"['hash-table', 'string', 'binary-search', 'design', 'sorting', 'ordered-set']",1
+"['array', 'math', 'design', 'data-stream', 'prefix-sum']",1
+"['array', 'bit-manipulation', 'sorting', 'counting']",1
+"['tree', 'depth-first-search', 'breadth-first-search', 'union-find', 'graph', 'binary-tree']",1
+"['array', 'math', 'dynamic-programming', 'greedy', 'sorting']",1
+"['array', 'hash-table', 'string', 'sorting', 'counting']",1
+"['linked-list', 'tree', 'depth-first-search', 'binary-tree']",1
+"['array', 'stack', 'design']",1
+"['divide-and-conquer', 'greedy', 'tree', 'depth-first-search', 'binary-search-tree', 'binary-tree']",1
+"['string', 'binary-search', 'rolling-hash', 'suffix-array', 'hash-function']",1
